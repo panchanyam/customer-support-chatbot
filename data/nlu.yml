@@ -1,0 +1,52 @@
+version: "3.1"
+
+nlu:
+
+- intent: greet
+  examples: |
+    - hi
+    - hello
+    - hey
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+
+- intent: billing_issue
+  examples: |
+    - I was charged extra
+    - wrong billing amount
+    - double charge
+    - extra charges
+    - billing problem
+
+- intent: refund_query
+  examples: |
+    - where is my refund
+    - refund status
+    - refund not received
+    - when will I get refund
+
+- intent: technical_issue
+  examples: |
+    - internet not working
+    - app crashing
+    - network issue
+    - slow internet
+    - connection problem
+
+- intent: delivery_issue
+  examples: |
+    - order delayed
+    - item missing
+    - damaged product
+    - where is my order
+    - delivery problem
+
+- intent: account_issue
+  examples: |
+    - cannot login
+    - forgot password
+    - account blocked
+    - update profile

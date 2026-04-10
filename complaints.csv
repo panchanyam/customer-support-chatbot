@@ -1,0 +1,101 @@
+﻿complaint_id,category,sub_category,customer_query,response
+1,Billing,Overcharge,I was charged extra this month,We are reviewing your billing issue and will refund if applicable
+2,Billing,Refund,When will I get my refund?,Refunds are processed within 5-7 business days
+3,Billing,Invoice,I need my invoice copy,You can download invoices from your account dashboard
+4,Technical,Internet,My internet is slow,Please restart your router and check again
+5,Technical,Network,No network signal,We are checking network issues in your area
+6,Delivery,Delay,My order is delayed,Your order will be delivered within 2 days
+7,Delivery,Missing,Item missing in package,We will resend the missing item
+8,Account,Login,I cannot login,Please reset your password using forgot password option
+9,Account,Password,I forgot my password,Use the password reset link sent to your email
+10,Account,Blocked,My account is blocked,Our team will verify and unblock your account shortly
+11,Billing,Overcharge,Why was I charged twice?,Double charges will be refunded within 3 days
+12,Billing,Refund,Refund not received yet,Please wait 5 business days or contact support
+13,Technical,Internet,Internet disconnects frequently,Check cables or contact technician
+14,Technical,App,App is crashing,Update the app or reinstall it
+15,Delivery,Delay,Delivery taking too long,"We apologize, delay due to high demand"
+16,Delivery,Tracking,Where is my order?,Use tracking ID to check delivery status
+17,Account,Login,Login not working,Clear cache and try again
+18,Account,Update,How to update my profile?,Go to settings and update profile details
+19,Billing,Invoice,Invoice not showing,Refresh page or contact support
+20,Billing,Payment,Payment failed but amount deducted,Amount will be auto refunded
+21,Technical,Network,Network outage?,We are fixing the issue
+22,Technical,Internet,Slow speed at night,"Due to peak usage, speed may vary"
+23,Delivery,Damage,Product arrived damaged,We will replace the product
+24,Delivery,Return,How to return item?,Initiate return via app
+25,Account,Delete,Delete my account,We will process your request
+26,Billing,Overcharge,Unexpected charges added,We are investigating
+27,Billing,Refund,Refund status?,Check refund status in app
+28,Technical,App,App not opening,Try reinstalling the app
+29,Technical,Login,Cannot login app,Check credentials
+30,Delivery,Tracking,Tracking not updating,Please wait for system update
+31,Account,Blocked,Account locked,Try after 24 hours
+32,Account,Password,Password reset not working,Try again or contact support
+33,Billing,Payment,Payment declined,Use another payment method
+34,Billing,Invoice,Wrong invoice generated,We will correct it
+35,Technical,Internet,WiFi not working,Restart router
+36,Technical,Network,Signal weak,Move to better location
+37,Delivery,Delay,Late delivery again,We apologize for inconvenience
+38,Delivery,Missing,Missing accessories,We will send them
+39,Account,Login,Login error,Try resetting password
+40,Account,Update,Change email id,Go to profile settings
+41,Billing,Refund,Refund delayed,Processing soon
+42,Billing,Overcharge,Charged for unused service,Refund will be issued
+43,Technical,App,App slow,Clear cache
+44,Technical,Internet,Internet down,Check service outage
+45,Delivery,Return,Return pickup not done,We will reschedule
+46,Delivery,Damage,Broken item,Replacement initiated
+47,Account,Delete,Close account,Processing request
+48,Account,Blocked,Why account blocked?,Due to suspicious activity
+49,Billing,Payment,Transaction failed,Try again
+50,Billing,Invoice,Need GST invoice,Download from portal
+51,Technical,Network,No signal indoors,Use WiFi calling
+52,Technical,App,Login loop issue,Clear app data
+53,Delivery,Tracking,Where is shipment?,Track using ID
+54,Delivery,Delay,Shipment stuck,We are checking
+55,Account,Login,Invalid login,Check credentials
+56,Account,Password,Reset link expired,Request new link
+57,Billing,Refund,Refund processed?,Check status
+58,Billing,Overcharge,Extra tax applied,We will review
+59,Technical,Internet,Slow browsing,Check bandwidth usage
+60,Technical,Network,Call drops,Network team notified
+61,Delivery,Missing,Missing item,We will resend
+62,Delivery,Return,Return rejected,Contact support
+63,Account,Blocked,Account suspended,Review ongoing
+64,Account,Update,Update phone number,Go to settings
+65,Billing,Payment,Auto debit issue,Disable auto pay
+66,Billing,Invoice,Invoice incorrect,Correction in progress
+67,Technical,App,App freezes,Update app
+68,Technical,Internet,Connection unstable,Restart modem
+69,Delivery,Damage,Package damaged,File complaint
+70,Delivery,Tracking,Tracking delayed,System update pending
+71,Account,Login,Login timeout,Try again
+72,Account,Delete,Remove account,Processing
+73,Billing,Refund,Refund pending,Wait 5 days
+74,Billing,Overcharge,Charged twice,Refund initiated
+75,Technical,Network,Network issue,Fix in progress
+76,Technical,App,App error,Reinstall
+77,Delivery,Delay,Delivery late,Apologies
+78,Delivery,Missing,Missing parts,Sending replacement
+79,Account,Blocked,Account disabled,Contact support
+80,Account,Password,Forgot password,Reset link sent
+81,Billing,Invoice,Download invoice,Available online
+82,Billing,Payment,Payment error,Retry
+83,Technical,Internet,Slow internet,Check speed
+84,Technical,Network,Weak signal,Move closer
+85,Delivery,Return,Return request,Approved
+86,Delivery,Damage,Damaged goods,Replacement sent
+87,Account,Login,Login failed,Check credentials
+88,Account,Update,Update address,Edit profile
+89,Billing,Refund,Refund completed?,Check account
+90,Billing,Overcharge,Billing error,We will fix
+91,Technical,App,App bug,Update
+92,Technical,Internet,No internet,Restart router
+93,Delivery,Tracking,Order location,Track online
+94,Delivery,Delay,Order delayed,Arriving soon
+95,Account,Blocked,Blocked account,Under review
+96,Account,Delete,Delete profile,Processing
+97,Billing,Payment,Payment stuck,Check bank
+98,Billing,Invoice,Invoice missing,Download again
+99,Technical,Network,Network slow,Working on it
+100,Delivery,Missing,Item not delivered,We will resend

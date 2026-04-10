@@ -1,0 +1,38 @@
+version: "3.1"
+
+rules:
+
+- rule: greet
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- rule: goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: billing
+  steps:
+  - intent: billing_issue
+  - action: utter_billing_issue
+
+- rule: refund
+  steps:
+  - intent: refund_query
+  - action: utter_refund_query
+
+- rule: technical
+  steps:
+  - intent: technical_issue
+  - action: utter_technical_issue
+
+- rule: delivery
+  steps:
+  - intent: delivery_issue
+  - action: utter_delivery_issue
+
+- rule: account
+  steps:
+  - intent: account_issue
+  - action: utter_account_issue

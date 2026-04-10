@@ -1,0 +1,37 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - billing_issue
+  - refund_query
+  - technical_issue
+  - delivery_issue
+  - account_issue
+
+responses:
+
+  utter_greet:
+    - text: "Hello! How can I assist you with your complaint today?"
+
+  utter_goodbye:
+    - text: "Thank you for contacting support. Have a great day!"
+
+  utter_billing_issue:
+    - text: "I understand you have a billing issue. Can you provide more details?"
+
+  utter_refund_query:
+    - text: "Refunds are usually processed within 5-7 business days."
+
+  utter_technical_issue:
+    - text: "We are sorry for the technical issue. Please try restarting your device."
+
+  utter_delivery_issue:
+    - text: "We apologize for the delivery issue. We are checking your order."
+
+  utter_account_issue:
+    - text: "We can help with your account issue. Please provide more details."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
